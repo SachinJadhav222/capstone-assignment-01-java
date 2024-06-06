@@ -1,8 +1,8 @@
 # capstone-assignment-01-java
 
-Problem Statement:
+ * Assignment 01
 
-1. Implement below Program using Java Concepts
+Implement below Program using Java Concepts
 
 a. Create a class name as IT_Calculator
 
